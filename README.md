@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysharma279&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysharma279" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently focused on **Kubernetes**
 
 - 💬 Ask me about **Dev_Ops**
 
